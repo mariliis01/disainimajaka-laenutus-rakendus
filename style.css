@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This ensures the body covers the full viewport height */
+    margin: 0; /* Remove default margin */
+}
+
+b {
+    padding: 50px 20px;
+    font-size: 16px;
+}
+c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
