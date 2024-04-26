@@ -2,7 +2,7 @@
 Disainimajaka laenutus rakendus, et teha disainimajaka õpetajate töö kergemaks.
 
 
-Tiimiliikmed:  
+Liikmed:  
 Katrin Ansper - Koodi kirjutamine ja figma  
 Kristo Lember  - Koodi kirjutasime  
 Ken-Martti Paju - Koodi kirjutamine ja figma  
