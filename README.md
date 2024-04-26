@@ -6,7 +6,7 @@ Liikmed:
 Katrin Ansper - Koodi kirjutamine ja figma  
 Kristo Lember  - Koodi kirjutasime  
 Ken-Martti Paju - Koodi kirjutamine ja figma  
-Kätlin Epelbaum  - Figma, andmebaasid, README 
+Kätlin Epelbaum  - Figma, andmebaasid, README   
 Mari-Liis Sink  - Nõu andja 
 
 ## Päev 1  
