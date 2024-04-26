@@ -3,11 +3,9 @@ Disainimajaka laenutus rakendus (tiim i)
 
 
 Tiimiliikmed:  
-Katrin Ansper  
-Siim Oll  
+Katrin Ansper
 Kristo Lember  
-Ken-Martti Paju  
-Robin Mihkelson  
+Ken-Martti Paju 
 Kätlin Epelbaum  
 Mari-Liis Sink  
 
@@ -25,4 +23,5 @@ Jätkasime Figmaga.
 Alustasime koodi kirjutamist ja andmebaasi tegemist.
 
 ## Päev 3:
+Koodi kirjutamine.
 
