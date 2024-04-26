@@ -18,7 +18,8 @@ Figma ehitus:
 Link:
 
 ## Päev 2:
-Uus plaan: 
+Uus plaan: ![image](https://github.com/mariliis01/disainimajaka-laenutus-rakendus/assets/145542776/23737dfd-a308-4224-9ce7-c3a04a7e4cb4)
+
 
 Jätkasime Figmaga.  
 Alustasime koodi kirjutamist ja andmebaasi tegemist.
